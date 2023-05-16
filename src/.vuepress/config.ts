@@ -2,6 +2,9 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 
 export default defineUserConfig({
+  dest: "dist",
+  host: "0.0.0.0",
+  port: 9452,
   base: "/",
 
   locales: {
