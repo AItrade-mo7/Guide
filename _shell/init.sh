@@ -18,7 +18,7 @@ NowPath=$(pwd)
 OutPutPath="${NowPath}/dist"
 
 # 远程仓库目录地址
-DeployPath="git@github.com:AItrade-mo7/WebClientPackage.git"
+DeployPath="git@github.com:AItrade-mo7/GuidePaskage.git"
 
 # Deploy 完成之后的输出
 DeployEndText="
