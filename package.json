@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "build": "vuepress build src",
-    "clean-dev": "vuepress dev src --clean-cache",
+    "dev": "vuepress dev src --clean-cache",
     "update": "./_shell/Update.sh",
     "sync": "./_shell/GitSync.sh",
     "deploy": "./_shell/Deploy.sh"
